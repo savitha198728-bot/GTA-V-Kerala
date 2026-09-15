@@ -1,0 +1,6 @@
+{
+  "name": "GTA V Kerala",
+  "description": "GTA V Kerala Edition - action-packed Kerala roads, KSRTC Aana Vandi, Bullet, Auto chases, Malayalam comedy dialogues, and video script generator.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
